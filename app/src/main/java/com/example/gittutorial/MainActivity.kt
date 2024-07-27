@@ -24,13 +24,7 @@ class MainActivity : ComponentActivity() {
                         name = "Git",
                         modifier = Modifier.padding(innerPadding)
                     )
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
-                    print("Esto es un ejemplo")
+
                 }
             }
         }
